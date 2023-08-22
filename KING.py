@@ -1,7 +1,7 @@
 # Obfuscated with PyObfuscate
 #ENCRYPTED BY :WB-KING
 #VERSION :ALPHA
-#GITHUB : https://github.com/WB-LING
+#GITHUB : https://github.com/WB-KING
 #FEEL THE POWER OF WB-KING...
 # Time : Sat Aug 19 20:26:36 2023
 # -------------------------------
